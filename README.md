@@ -2,7 +2,7 @@
 不同编程语言下的网络爬虫，蜘蛛，采集器的极好汇总。
 
 ## Python 
-* [Scrapy](https://github.com/scrapy/scrapy) - A fast high-level screen scraping and web crawling framework.
+* [Scrapy](https://github.com/scrapy/scrapy) - 一种快速高层次的屏幕,网页数据采集框架。
     * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
     * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - Redis-based components for Scrapy.
     * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - Uses Redis and Kafka to create a distributed on demand scraping cluster.
