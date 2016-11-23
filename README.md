@@ -2,11 +2,11 @@
 不同编程语言下的网络爬虫，蜘蛛，采集器的极好汇总。
 
 ## Python 
-* [Scrapy](https://github.com/scrapy/scrapy) - 一种快速高层次的屏幕,网页数据采集框架。
-    * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - Creating Scrapy scrapers via the Django admin interface.
-    * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - Redis-based components for Scrapy.
-    * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - Uses Redis and Kafka to create a distributed on demand scraping cluster.
-    * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - Uses scrapy,redis, mongodb,graphite to create a distributed spider.
+* [Scrapy](https://github.com/scrapy/scrapy) - 一种高效的屏幕,网页数据采集框架。
+    * [django-dynamic-scraper](https://github.com/holgerd77/django-dynamic-scraper) - 基于Scrapy内核由django Web框架开发的爬虫。
+    * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - 基于Scrapy内核采用Redis组件的爬虫。
+    * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - 基于Scrapy内核采用Redis 和 Kafka 开发的分布式爬虫框架。
+    * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 基于Scrapy内核采用redis, mongodb开发的分布式爬虫框架。
 * [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
 * [cola](https://github.com/chineking/cola) - A distributed crawling framework.
 * [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
