@@ -7,19 +7,19 @@
     * [Scrapy-Redis](https://github.com/rolando/scrapy-redis) - 基于Scrapy内核采用Redis组件的爬虫。
     * [scrapy-cluster](https://github.com/istresearch/scrapy-cluster) - 基于Scrapy内核采用Redis 和 Kafka 开发的分布式爬虫框架。
     * [distribute_crawler](https://github.com/gnemoug/distribute_crawler) - 基于Scrapy内核采用redis, mongodb开发的分布式爬虫框架。
-* [pyspider](https://github.com/binux/pyspider) - A powerful spider system.
-* [cola](https://github.com/chineking/cola) - A distributed crawling framework.
-* [Demiurge](https://github.com/matiasb/demiurge) - PyQuery-based scraping micro-framework.
-* [Scrapely](https://github.com/scrapy/scrapely) - A pure-python HTML screen-scraping library.
-* [feedparser](http://pythonhosted.org/feedparser/) - Universal feed parser.
-* [you-get](https://github.com/soimort/you-get) -  Dumb downloader that scrapes the web.
-* [Grab](http://grablib.org/) - Site scraping framework.
-* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - A Python library for automating interaction with websites.
-* [portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy.
-* [crawley](https://github.com/jmg/crawley) - Pythonic Crawling / Scraping Framework based on Non Blocking I/O operations.
-* [RoboBrowser](https://github.com/jmcarp/robobrowser) - A simple, Pythonic library for browsing the web without a standalone web browser.
-* [MSpider](https://github.com/manning23/MSpider) - A simple ,easy spider using gevent and js render. 
-* [brownant](https://github.com/douban/brownant) - A lightweight web data extracting framework.
+* [pyspider](https://github.com/binux/pyspider) - 一个强大纯python的数据采集系统.
+* [cola](https://github.com/chineking/cola) - 一个分布式的爬虫框架.
+* [Demiurge](https://github.com/matiasb/demiurge) - 基于PyQuery的微型爬虫框架.
+* [Scrapely](https://github.com/scrapy/scrapely) - 一个纯python的HTML页面捕捉库.
+* [feedparser](http://pythonhosted.org/feedparser/) - 一个通用的feed解析器.
+* [you-get](https://github.com/soimort/you-get) -  静默网站爬去下载器.
+* [Grab](http://grablib.org/) - 网站采集框架.
+* [MechanicalSoup](https://github.com/hickford/MechanicalSoup) - 一个自动化的互动网站Python库.
+* [portia](https://github.com/scrapinghub/portia) - 基于Scrapy的可视化数据采集框架.
+* [crawley](https://github.com/jmg/crawley) - 基于非阻塞通信(NIO)的python爬虫框架.
+* [RoboBrowser](https://github.com/jmcarp/robobrowser) - 一个简单的，不基于Web浏览器的基于Python的Web 浏览器.
+* [MSpider](https://github.com/manning23/MSpider) - 一个基于gevent(协程网络库)的python爬虫. 
+* [brownant](https://github.com/douban/brownant) - 一个轻量级的网络数据抽取框架.
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
