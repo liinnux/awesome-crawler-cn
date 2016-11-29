@@ -28,7 +28,7 @@
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - 用于生产环境的高度可扩展的高度可扩展的网络爬虫.
-    * [anthelion](https://github.com/yahoo/anthelion) - 一个基于Apache Nutch抓取语义注释在HTML页面插件.
+   * [anthelion](https://github.com/yahoo/anthelion) - 一个基于Apache Nutch抓取语义注释在HTML页面插件.
 * [Crawler4j](https://github.com/yasserg/crawler4j) - 简单和轻量级的网络爬虫.
 * [JSoup](http://jsoup.org/) - 采集，分析，处理和清洗HTML页面.
 * [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - HTML网站特定的处理、信息提取.
