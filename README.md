@@ -27,21 +27,21 @@
 * [brownant](https://github.com/douban/brownant) - 一个轻量级的网络数据抽取框架.
 
 ## Java
-* [Apache Nutch](http://nutch.apache.org/) - Highly extensible, highly scalable web crawler for production environment.
-    * [anthelion](https://github.com/yahoo/anthelion) - A plugin for Apache Nutch to crawl semantic annotations within HTML pages.
-* [Crawler4j](https://github.com/yasserg/crawler4j) - Simple and lightweight web crawler.
-* [JSoup](http://jsoup.org/) - Scrapes, parses, manipulates and cleans HTML.
-* [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - Website-Specific Processors for HTML INformation eXtraction.
-* [Open Search Server](http://www.opensearchserver.com/) - A full set of search functions. Build your own indexing strategy. Parsers extract full-text data. The crawlers can index everything.
-* [Gecco](https://github.com/xtuhcy/gecco) - A easy to use lightweight web crawler
-* [WebCollector](https://github.com/CrawlScript/WebCollector) - Simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
-* [Webmagic](https://github.com/code4craft/webmagic) - A scalable crawler framework.
-* [Spiderman](https://git.oschina.net/l-weiwei/spiderman) - A scalable ,extensible, multi-threaded web crawler.
-    * [Spiderman2](http://git.oschina.net/l-weiwei/Spiderman2) - A distributed  web crawler framework,support js render.
-* [Heritrix3](https://github.com/internetarchive/heritrix3) -  Extensible, web-scale, archival-quality web crawler project.
-* [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) - An agile, distributed crawler framework.
-* [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) - An open source collection of resources for building low-latency, scalable web crawlers on Apache Storm
-* [Spark-Crawler](https://github.com/USCDataScience/sparkler) - Evolving Apache Nutch to run on Spark.
+* [Apache Nutch](http://nutch.apache.org/) - 用于生产环境的高度可扩展的高度可扩展的网络爬虫.
+    * [anthelion](https://github.com/yahoo/anthelion) - 一个基于Apache Nutch抓取语义注释在HTML页面插件.
+* [Crawler4j](https://github.com/yasserg/crawler4j) - 简单和轻量级的网络爬虫.
+* [JSoup](http://jsoup.org/) - 采集，分析，处理和清洗HTML页面.
+* [websphinx](http://www.cs.cmu.edu/~rcm/websphinx/) - HTML网站特定的处理、信息提取.
+* [Open Search Server](http://www.opensearchserver.com/) - 全套搜索功能，建立你自己的索引策略。分析、提取全文数据，这个框架可以索引的一切.
+* [Gecco](https://github.com/xtuhcy/gecco) - 一个易于使用的轻量级网络爬虫.
+* [WebCollector](https://github.com/CrawlScript/WebCollector) -简单的抓取网页的界面，可以在不到5分钟内部署一个多线程的网络爬虫.
+* [Webmagic](https://github.com/code4craft/webmagic) -一个可扩展的爬虫框架.
+* [Spiderman](https://git.oschina.net/l-weiwei/spiderman) -一个可扩展的，多线程的网络爬虫.
+    * [Spiderman2](http://git.oschina.net/l-weiwei/Spiderman2) - 分布式网络爬虫框架，支持javascript渲染.
+* [Heritrix3](https://github.com/internetarchive/heritrix3) -  可扩展，大规模的网络爬虫项目.
+* [SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) - 一个敏捷的分布式爬虫框架.
+* [StormCrawler](http://github.com/DigitalPebble/storm-crawler/) - 基于开放源代码、构建低延迟的网络资源采集框架，基于Apache Storm.
+* [Spark-Crawler](https://github.com/USCDataScience/sparkler) - 基于Apache Nutch 的网络爬虫，可以运行于Spark.
 
 ## C# 
 * [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
