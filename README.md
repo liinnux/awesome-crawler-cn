@@ -68,27 +68,26 @@
 * [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ## C++
-* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - A distributed open source search engine and spider/crawler written in C/C++.
+* [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - 基于C/C++开发的网络爬虫和搜索引擎.
 
 ## C
-* [httrack](https://github.com/xroche/httrack) - Copy websites to your computer.
-
+* [httrack](https://github.com/xroche/httrack) - 全部网站整体复制工具。
 ## Ruby
-* [upton](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping. Just add CSS(Or do more).
-* [wombat](https://github.com/felipecsl/wombat) - Lightweight Ruby web crawler/scraper with an elegant DSL which extracts structured data from pages.
-* [RubyRetriever](https://github.com/joenorton/rubyretriever) - RubyRetriever is a Web Crawler, Scraper & File Harvester.
-* [Spidr](https://github.com/postmodern/spidr) - Spider a site ,multiple domains, certain links or infinitely.
-* [Cobweb](https://github.com/stewartmckee/cobweb) - Web crawler with very flexible crawling options, standalone or using sidekiq.
-* [mechanize](https://github.com/sparklemotion/mechanize) - Automated web interaction & crawling.
+* [upton](https://github.com/propublica/upton) - 一个易于上手的爬虫框架集合，支持CSS选择器.
+* [wombat](https://github.com/felipecsl/wombat) - 基于Ruby天然的支持DSL的网络爬虫，易于提取网页正文数据.
+* [RubyRetriever](https://github.com/joenorton/rubyretriever) - 基于Ruby的网站数据采集和全网数据收割机.
+* [Spidr](https://github.com/postmodern/spidr) - 全站数据采集，支持无限的网站链接地址采集.
+* [Cobweb](https://github.com/stewartmckee/cobweb) - 非常灵活，易于扩展的网络爬虫，可以单点部署使用.
+* [mechanize](https://github.com/sparklemotion/mechanize) - 自动采集网站数据的框架.
 
 ## R
-* [rvest](https://github.com/hadley/rvest) - Simple web scraping for R.
+* [rvest](https://github.com/hadley/rvest) - 基于R开发的简单网络爬虫.
 
 ## Erlang 
-* [ebot](https://github.com/matteoredaelli/ebot) - A scalable, distribuited and highly configurable web cawler.
+* [ebot](https://github.com/matteoredaelli/ebot) - 一个分布式，高可扩展的网络爬虫.
 
 ## Perl
-* [web-scraper](https://github.com/miyagawa/web-scraper) - Web Scraping Toolkit using HTML and CSS Selectors or XPath expressions.
+* [web-scraper](https://github.com/miyagawa/web-scraper) - 方便使用HTML、CSS、XPath选择器的网络爬虫。
 
 ## Go
 * [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
