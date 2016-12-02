@@ -90,15 +90,15 @@
 * [web-scraper](https://github.com/miyagawa/web-scraper) - 方便使用HTML、CSS、XPath选择器的网络爬虫。
 
 ## Go
-* [pholcus](https://github.com/henrylee2cn/pholcus) -  A distributed, high concurrency and powerful web crawler.
-* [gocrawl](https://github.com/PuerkitoBio/gocrawl) - Polite, slim and concurrent web crawler.
-* [fetchbot](https://github.com/PuerkitoBio/fetchbot) - A simple and flexible web crawler that follows the robots.txt policies and crawl delays.
-* [go_spider](https://github.com/hu17889/go_spider) - An awesome Go concurrent Crawler(spider) framework. 
-* [dht](https://github.com/shiyanhui/dht) - BitTorrent DHT Protocol && DHT Spider.
-* [ants-go](https://github.com/wcong/ants-go) - A open source, distributed, restful crawler engine in golang.
-* [scrape](https://github.com/yhat/scrape) - A simple, higher level interface for Go web scraping.
+* [pholcus](https://github.com/henrylee2cn/pholcus) -  一个分布式，支持高并发的网络爬虫.
+* [gocrawl](https://github.com/PuerkitoBio/gocrawl) - 一个高并发的，轻量级，遵守道德的网络爬虫.
+* [fetchbot](https://github.com/PuerkitoBio/fetchbot) -一个遵守robots.txt规则和延迟规则的轻量级网络爬虫.
+* [go_spider](https://github.com/hu17889/go_spider) - 一个非常好的高并发网络爬虫. 
+* [dht](https://github.com/shiyanhui/dht) -支持DHT协议的网络爬虫.
+* [ants-go](https://github.com/wcong/ants-go) - 基于Golang的高并行网络爬虫.
+* [scrape](https://github.com/yhat/scrape) - 一个简单的提供很好开发接口的网络爬虫.
 
 ## Scala
-* [crawler](https://github.com/bplawler/crawler) - Scala DSL for web crawling.
-* [scrala](https://github.com/gaocegege/scrala) - Scala crawler(spider) framework, inspired by scrapy.
-* [ferrit](https://github.com/reggoodwin/ferrit) - Ferrit is a web crawler service written in Scala using Akka, Spray and Cassandra.
+* [crawler](https://github.com/bplawler/crawler) - 基于Scala DSL的网络爬虫.
+* [scrala](https://github.com/gaocegege/scrala) - 由Scala开发基于scrapy内核的网络爬虫.
+* [ferrit](https://github.com/reggoodwin/ferrit) - 基于Scala开发使用了Akka, Spray，Cassandra的网络爬虫.
