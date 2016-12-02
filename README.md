@@ -61,11 +61,11 @@
 * [node-osmosis](https://github.com/rchipka/node-osmosis) - 基于Node.js适于解析HTML结构的网络爬虫.
 
 ## PHP
-* [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.
-    * [laravel-goutte](https://github.com/dweidner/laravel-goutte) - Laravel 5 Facade for Goutte.
-* [dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
-* [pspider](https://github.com/hightman/pspider) - Parallel web crawler written in PHP.
-* [php-spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [Goutte](https://github.com/FriendsOfPHP/Goutte) - 基于PHP的网页截屏和爬取程序.
+    * [laravel-goutte](https://github.com/dweidner/laravel-goutte) - 基于Laravel 5 的网络爬虫.
+* [dom-crawler](https://github.com/symfony/dom-crawler) - 易于抽取DOM文件的网络爬虫.
+* [pspider](https://github.com/hightman/pspider) - 基于PHP的并发网络爬虫.
+* [php-spider](https://github.com/mvdbos/php-spider) - 一个基于PHP的高可扩展的网络爬虫.
 
 ## C++
 * [open-source-search-engine](https://github.com/gigablast/open-source-search-engine) - 基于C/C++开发的网络爬虫和搜索引擎.
