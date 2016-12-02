@@ -44,21 +44,21 @@
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - 基于Apache Nutch 的网络爬虫，可以运行于Spark.
 
 ## C# 
-* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - 建立在C # 3.5版，它包含了一个简单的Web内容分类方案，它可以根据其内容分开网页.
-* [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - 简单的多线程网络爬虫，基于，regluar表达式.
+* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - 一个简单的Web内容分类方案，它可以根据其内容分开网页,基于C#3.5.
+* [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - 简单的多线程网络爬虫，基于REG表达式.
 * [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - 基于C#开发的一个轻量级，交叉平台的网络爬虫.
 * [Abot](https://github.com/sjdirect/abot) - 具有很好效率和可扩展性的C#网络爬虫.
 * [Hawk](https://github.com/ferventdesert/Hawk) -  用 C#/WPF开发的网络爬虫，具有简单的ETL功能.
 * [SkyScraper](https://github.com/JonCanning/SkyScraper) - 一个支持异步网络和有很好扩展性的网络爬虫.
 
 ## JavaScript
-* [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
-* [scrape-it](https://github.com/IonicaBizau/scrape-it) - A Node.js scraper for humans.
-* [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
-* [node-crawler](https://github.com/bda-research/node-crawler) - Node-crawler has clean,simple api.
-* [js-crawler](https://github.com/antivanov/js-crawler) - Web crawler for Node.JS, both HTTP and HTTPS are supported.
-* [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraper with pagination and crawler support.
-* [node-osmosis](https://github.com/rchipka/node-osmosis) - HTML/XML parser and web scraper for Node.js.
+* [scraperjs](https://github.com/ruipgil/scraperjs) - 基于JS的一个功能齐全的网络爬虫.
+* [scrape-it](https://github.com/IonicaBizau/scrape-it) - 基于Node.js的网络爬虫.
+* [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 基于事件驱动开发的网络爬虫.
+* [node-crawler](https://github.com/bda-research/node-crawler) - 提供简单API，适于二次开发的网络爬虫.
+* [js-crawler](https://github.com/antivanov/js-crawler) - 基于Node.JS,支持HTTP(S)的网络爬虫.
+* [x-ray](https://github.com/lapwinglabs/x-ray) - 支持分页的网络爬虫.
+* [node-osmosis](https://github.com/rchipka/node-osmosis) - 基于Node.js适于解析HTML结构的网络爬虫.
 
 ## PHP
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - A screen scraping and web crawling library for PHP.
