@@ -44,12 +44,12 @@
 * [Spark-Crawler](https://github.com/USCDataScience/sparkler) - 基于Apache Nutch 的网络爬虫，可以运行于Spark.
 
 ## C# 
-* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - Built in C# 3.5 version. it contains a simple extention of web content categorizer, which can saparate between the web page depending on their content.
-* [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - Simple spider base on mutithreading, regluar expression.
-* [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - This is a cross platfrom, ligth spider develop by C#.
-* [Abot](https://github.com/sjdirect/abot) - C# web crawler built for speed and flexibility.
-* [Hawk](https://github.com/ferventdesert/Hawk) - Advanced Crawler and ETL tool written in C#/WPF.
-* [SkyScraper](https://github.com/JonCanning/SkyScraper) - An asynchronous web scraper / web crawler using async / await and Reactive Extensions.
+* [ccrawler](http://www.findbestopensource.com/product/ccrawler) - 建立在C # 3.5版，它包含了一个简单的Web内容分类方案，它可以根据其内容分开网页.
+* [SimpleCrawler](https://github.com/lei-zhu/SimpleCrawler) - 简单的多线程网络爬虫，基于，regluar表达式.
+* [DotnetSpider](https://github.com/zlzforever/DotnetSpider) - 基于C#开发的一个轻量级，交叉平台的网络爬虫.
+* [Abot](https://github.com/sjdirect/abot) - 具有很好效率和可扩展性的C#网络爬虫.
+* [Hawk](https://github.com/ferventdesert/Hawk) -  用 C#/WPF开发的网络爬虫，具有简单的ETL功能.
+* [SkyScraper](https://github.com/JonCanning/SkyScraper) - 一个支持异步网络和有很好扩展性的网络爬虫.
 
 ## JavaScript
 * [scraperjs](https://github.com/ruipgil/scraperjs) - A complete and versatile web scraper.
