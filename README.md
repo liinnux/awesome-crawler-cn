@@ -25,6 +25,7 @@
 * [RoboBrowser](https://github.com/jmcarp/robobrowser) - 一个简单的，不基于Web浏览器的基于Python的Web 浏览器.
 * [MSpider](https://github.com/manning23/MSpider) - 一个基于gevent(协程网络库)的python爬虫. 
 * [brownant](https://github.com/douban/brownant) - 一个轻量级的网络数据抽取框架.
+* [extractnet](https://github.com/currentsapi/extractnet) - 基于机器学习进行网页内容提取的工具
 
 ## Java
 * [Apache Nutch](http://nutch.apache.org/) - 用于生产环境的高度可扩展的高度可扩展的网络爬虫.
