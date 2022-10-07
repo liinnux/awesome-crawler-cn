@@ -54,6 +54,7 @@
 ## JavaScript
 * [scraperjs](https://github.com/ruipgil/scraperjs) - 基于JS的一个功能齐全的网络爬虫.
 * [scrape-it](https://github.com/IonicaBizau/scrape-it) - 基于Node.js的网络爬虫.
+* [webster](https://github.com/zhuyingda/webster) - 基于Chromium无头模式和Node.js的分布式网络爬虫框架，可抓取ajax异步内容，可分布式横向纵向扩展.
 * [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 基于事件驱动开发的网络爬虫.
 * [node-crawler](https://github.com/bda-research/node-crawler) - 提供简单API，适于二次开发的网络爬虫.
 * [js-crawler](https://github.com/antivanov/js-crawler) - 基于Node.JS,支持HTTP(S)的网络爬虫.
